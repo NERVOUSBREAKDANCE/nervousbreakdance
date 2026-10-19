@@ -1,2 +1,2 @@
 <img align="center" width="1475" height="230" alt="banner" src="https://github.com/user-attachments/assets/cb47c534-ceca-45fd-8e55-877368004d01" />
-<p align="center"> ![](https://komarev.com/ghpvc/?username=nervousbreakdance&color=lightgrey&style=plastic&label=　　&abbreviated=true) </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pompiere&size=70&pause=7&color=F6F6F6&center=true&multiline=true&width=1475&height=250&lines=So+just+stop+%2C+breathe.;Count+to+three.;Get+your+head+right+%2C+like..." alt="Typing SVG" /></a>
